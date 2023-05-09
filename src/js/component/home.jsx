@@ -36,7 +36,7 @@ const Home = () => {
   }
 
 
-
+.
 	return (
 		
 		<div className="text-center container ">
