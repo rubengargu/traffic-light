@@ -1,6 +1,19 @@
 
-.selected{
+.selected-yellow{
     -webkit-box-shadow: 6px 5px 50px -1px #FFD519; 
-    box-shadow: 6px 5px 50px -1px #FFD519;
+    box-shadow: 0px 0px 50px 10px #FFC107; 
+   
+
 }
- 
+.selected-green{
+    -webkit-box-shadow: 6px 5px 50px -1px #30ff19; 
+    box-shadow: 0px 0px 50px 10px rgb(213, 241, 208); 
+}
+.selected-red{
+    -webkit-box-shadow: 6px 5px 50px -1px #fb0505; 
+    box-shadow: 0px 0px 50px 10px rgb(243, 148, 148); 
+
+}
+.traffic{
+    background-color: black;
+}
