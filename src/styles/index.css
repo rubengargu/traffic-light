@@ -7,7 +7,7 @@
 }
 .selected-green{
     -webkit-box-shadow: 6px 5px 50px -1px #30ff19; 
-    box-shadow: 0px 0px 50px 10px rgb(213, 241, 208); 
+    box-shadow: 0px 0px 50px 10px rgb(137, 244, 118); 
 }
 .selected-red{
     -webkit-box-shadow: 6px 5px 50px -1px #fb0505; 
@@ -15,5 +15,18 @@
 
 }
 .traffic{
+   
     background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+   
+    align-items: center;
+
+}
+.stick{
+    background-color: black;
+    margin: 0 auto;
+    width: 40px;
+    height: 100px;
 }
